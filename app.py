@@ -47,6 +47,6 @@ class TwitterBot:
 
 if __name__ == "__main__":
 
-    ed = TwitterBot('kayode.adechinan@gmail.com', 'atsk050793')
+    ed = TwitterBot('xxxxxxxxxxx@xxxxxxxx.xxxx', 'xxxxxxxxxxxxxx')
     ed.login()
     ed.like_tweet('webdevelopment')
